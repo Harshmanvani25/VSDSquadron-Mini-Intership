@@ -323,7 +323,7 @@ B-Type instructions perform conditional branches. They follow the format:
       opcode:      1100011
       
     - *Hex:* 0x00f00063
-    
+
 ![alt text](MUKIE.png)
 
 ![alt text](3808.1535301636.png)
