@@ -581,6 +581,7 @@ int main() {
 
 #### 7. Video Demonstration
 
+https://github.com/Harshmanvani25/VSDSquadron-Mini-Intership/blob/main/VN20240613_161706.mp4
 <video controls src="VN20240613_161706-1.mp4" title="Title"></video>
 
 The project cycles through a set of predefined 4-bit patterns (0b1111, 0b0101, 0b0000) and outputs each pattern bit-by-bit on the GPIO pin. Each bit is output with a 2-second delay for visualization. After outputting all 4 bits of a pattern, the system waits for 1 second before switching to the next pattern. 
